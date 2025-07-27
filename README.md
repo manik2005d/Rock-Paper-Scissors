@@ -18,7 +18,7 @@ A fun and interactive Rock Paper Scissors game where the user plays against the 
 
 ## 🚀 Live Demo
 
-[Play the Game](https://manik2005d.github.io/rock-paper-scissors/)
+[Play the Game](https://manik2005d.github.io/Rock-Paper-Scissors/)
 
 ## 📄 License
 
